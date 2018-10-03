@@ -15,4 +15,11 @@ Three major Information Retrieval Models are:
 1. Boolean models (set theoretic) (Chapter 1 in Manning et al)
 2. Vector space models (statistical/algebraic) (Chapter 2 in Manning et al)
 3. Probabilistic models (Chapter 11 in Manning et al)
+
+Search engine except "Google", "Yahoo", "Bing":
+
+Altavista
+lycos
+DuckDuckGo
+
 """
